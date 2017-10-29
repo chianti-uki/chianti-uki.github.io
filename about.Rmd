@@ -1,0 +1,85 @@
+---
+title: "About"
+subtitle: "Academic and Professional Experience"
+---
+##
+##
+###**Academic Experience**
+####**Columbia University, Mailman School of Public Health, New York, NY**
+M.S. in Biostatistics
+
+**Highlighted Course**:
+
+Epidemiology, Biostatistics Methods, Data Science, Probability
+##
+##
+
+
+
+####**Rutgers University, New Brunswick, NJ**
+B.S. in Biochemical Toxicology
+
+**Highlighted Honors and Awards**:
+
+◇	Chase Award for Distinguished Scholar of Biochemistry
+
+◇	Herbert Estate/ Kelly Scholarship
+
+◇	George H. Cook Honors Program
+
+◇	School of Environmental and Biological Science Honors Program
+
+◇	Rutgers Class of 1929 Scholarship
+
+◇	School of Environmental and Biological Science Scholarship Award
+
+◇	Associate Alumnae of Douglass College Scholarship Award
+
+◇	Rutgers Club of Southern California Scholarship Award
+
+◇	Alpha Zeta, SEBS of Rutgers University, Student of the Year
+
+
+
+
+**Research experiences**: 
+
+
+Two years of independent and original research experience on the effect of Cisplatin, a commonly used chemotherapeutic drug, on zebrafish embryonic development. 
+
+
+
+
+
+###**Professional Experience**
+####**MMR Services LLC in Southern California Recovery Center 11/2016 – 5/2016**
+####Lab Data Analyst
+
+➢	Collaborated with lab members to determine and test common scheduled drugs in a patient’s urine sample to unveil the dual counterparts of prescription drug abuse: addiction and diversion.
+
+➢	Conducted data analysis such as using the standard curve parameters to determine the quality control and unknown sample concentrations from the peak area ratios obtained by Analyst software
+
+➢	Developed data log for internal and external instrument comparison in order to assure accuracy of experimental results.
+
+
+####**The Centers for Disease Control in Shandong Province	06/2014 - 08/2014**
+####Intern
+
+➢	Collaborated with CDC personnel to classify the Hemorrhagic Fever with Renal Syndrome (HFRS) epidemic data to determine the existence of the epidemic.
+
+➢	Utilized chi-square test on HFRS epidemic data to analyze the infection situation and the change of the host animals as the development of the urbanization in order to establish surveillance of the epidemic situation.
+
+➢	Evaluated the influence of the urbanization on HFRS to implement control and prevention measures 
+
+➢	Reported findings and situations in CDC reporting system for epidemic surveillance.
+
+
+###**Skills**
+
+◇	R, SAS (currently studying), Python (currently studying), Microsoft Offices (Excel, PowerPoint, Word)
+
+◇	Biochemistry: PCR, Western Blot, DNA and Protein Gel Electrophoresis, GC, HPLC, DNA Extraction, Protein Purification
+
+◇	English, Chinses (Mandarin/ Cantonese), French (elementary level)
+
+
